@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000066
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སྨོན་པ་བྱང་ཆུབ་མཆོག་ཏུ་སེམས་བསྐྱེད་པ་ཐེག་ཆེན་ལམ་གྱི་སྙིང་པོའོ། །
   authors:
   - མཛད་པ་པོ། བླ་མ་དམ་པ་བསོོད་ནམས་རྒྱལ་མཚན།
-  sku: IBA-SG-01-1
   layers:
   - book_title
   - author
   - tsawa
   - quotation
   - sabche
+  id: IBA-SG-01-1
 web_metadata:
   title:
     en: Essence of the Mahayana Path:Generating the Aspiration of Sublime Bodhichitta
